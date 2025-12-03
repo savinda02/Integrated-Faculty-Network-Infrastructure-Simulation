@@ -4,7 +4,7 @@
 This project involves the design and simulation of a robust, scalable, and secure network infrastructure for a University Faculty using **Cisco Packet Tracer**. The design follows the hierarchical network model and incorporates VLANs, Inter-VLAN routing, Wireless connectivity, and Firewall security mechanisms.
 
 ## 🏗️ Network Topology
-![Topology Diagram](Network_diagram.png)
+![Topology Diagram](Topology_diagram.png)
 
 
 ## 🚀 Key Features
